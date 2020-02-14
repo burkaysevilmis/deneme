@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/0a9ac3a4-f160-436a-b18b-0b56a0b6fa8d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/burkay1234"
+}
